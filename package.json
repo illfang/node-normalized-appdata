@@ -19,6 +19,7 @@
     "name": "Kevin Kratzer",
     "email": "kratzer.kevin@gmail.com",
     "url": "https://github.com/illfang"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/illfang/node-normalized-appdata/issues"
