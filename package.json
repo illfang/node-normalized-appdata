@@ -1,0 +1,27 @@
+{
+  "name": "node-normalized-appdata",
+  "version": "1.0.0",
+  "description": "Node module which exports a normalized APPDATA environment variable for mac and linux. For windows the system APPDATA will be used. For linux and mac ~/.config will be used. Furthermore, the current OS description is returned. This module exports the `normalizeAppData` function. By executing this function the APPDATA environment will be set for linux and mac.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illfang/node-normalized-appdata.git"
+  },
+  "keywords": [
+    "APPDATA",
+    "linux",
+    "mac"
+  ],
+  "author": {
+    "name": "Kevin Kratzer",
+    "email": "kratzer.kevin@gmail.com",
+    "url": "https://github.com/illfang"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/illfang/node-normalized-appdata/issues"
+  },
+  "homepage": "https://github.com/illfang/node-normalized-appdata#readme"
+}
